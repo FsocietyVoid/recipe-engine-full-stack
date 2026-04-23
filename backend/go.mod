@@ -1,11 +1,11 @@
 module recipe-scraper
 
-go 1.23
+go 1.26
 
 require (
-	github.com/PuerkitoBio/goquery v1.12.0
+	github.com/PuerkitoBio/goquery v1.9.0
 	github.com/chromedp/chromedp v0.15.1
-	github.com/gocolly/colly/v2 v2.3.0
+	github.com/gocolly/colly/v2 v2.1.0
 )
 
 require (
@@ -13,7 +13,6 @@ require (
 	github.com/antchfx/htmlquery v1.3.5 // indirect
 	github.com/antchfx/xmlquery v1.5.0 // indirect
 	github.com/antchfx/xpath v1.3.5 // indirect
-	github.com/bits-and-blooms/bitset v1.24.4 // indirect
 	github.com/chromedp/cdproto v0.0.0-20260405000525-47a8ff65b46a // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260214004413-d219187c3433 // indirect
@@ -25,7 +24,6 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/joho/godotenv v1.5.1
 	github.com/kennygrant/sanitize v1.2.4 // indirect
-	github.com/nlnwa/whatwg-url v0.6.2 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	github.com/stretchr/testify v1.11.1 // indirect
 	github.com/temoto/robotstxt v1.1.2 // indirect
