@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@reference "tailwindcss/theme.css";
+@reference "tailwindcss/utilities.css";
+
+@layer components {
+  .recipe-card {
+    @apply border rounded-xl shadow-sm hover:shadow-md transition p-4 cursor-pointer bg-white;
+  }
+  .recipe-card h3 {
+    @apply text-xl font-bold mb-1;
+  }
+}
