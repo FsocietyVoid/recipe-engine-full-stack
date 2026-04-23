@@ -3,7 +3,7 @@ module recipe-scraper
 go 1.23
 
 require (
-	github.com/PuerkitoBio/goquery v1.12.0
+	github.com/PuerkitoBio/goquery v1.9.0
 	github.com/chromedp/chromedp v0.15.1
 	github.com/gocolly/colly/v2 v2.3.0
 )
