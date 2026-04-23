@@ -125,12 +125,7 @@ The API server reads recipe data from `backend/output/`. This directory must be 
 
 ```bash
 cd backend
-go run ./cmd/scraper \
-  -mode=scrape \
-  -output=./output \
-  -max=200 \
-  -parallel=2 \
-  -delay=2s
+go run cmd/scraper/main.go -mode=scrape -pages=10 -max=500 -delay=3s
 ```
 
 > **Note:** Use `-max=50` for an initial test run. Recipes are saved incrementally, so the process can be safely interrupted and resumed.
