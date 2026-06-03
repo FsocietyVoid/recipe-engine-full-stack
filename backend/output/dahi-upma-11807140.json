@@ -1,0 +1,153 @@
+{
+  "id": "dahi-upma-11807140",
+  "title": "Dahi Upma",
+  "url": "https://www.sanjeevkapoor.com/Recipe/dahi-upma-11807140",
+  "description": "Upma is one of the most popularly eaten South Indian snack made with semolina. One can add different vegetables to add a variety. Here we have used yogurt which makes the snack soft and at the same time a delicious sour taste makes it more alluring.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "07 May 2026",
+  "cuisine": "South Indian",
+  "course": "Snack",
+  "prep_time": "10-15 minutes",
+  "cook_time": "20-25 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Yogurt",
+    "Coarse semolina",
+    "Ghee",
+    "Mustard seeds",
+    "Asafoetida",
+    "Split skinless black gram",
+    "Green chilli",
+    "Curry leaves",
+    "Ginger",
+    "Onion",
+    "Green peas",
+    "Salt",
+    "Sugar",
+    "Fresh coriander leaves"
+  ],
+  "ingredients": [
+    {
+      "raw": "1 cup yogurt (dahi)",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "yogurt"
+    },
+    {
+      "raw": "1 cup coarse semolina (jada rawa)",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "coarse semolina"
+    },
+    {
+      "raw": "3 tablespoons ghee",
+      "quantity": "3",
+      "unit": "tablespoons",
+      "name": "ghee"
+    },
+    {
+      "raw": "1 teaspoon mustard seeds",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "mustard seeds"
+    },
+    {
+      "raw": "A pinch of asafoetida (hing)",
+      "quantity": "",
+      "unit": "",
+      "name": "A pinch of asafoetida"
+    },
+    {
+      "raw": "1 teaspoon split skinless black gram (dhuli urad dal)",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "split skinless black gram"
+    },
+    {
+      "raw": "1 green chilli, chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "green chilli, chopped"
+    },
+    {
+      "raw": "10-12 curry leaves",
+      "quantity": "10",
+      "unit": "",
+      "name": "-12 curry leaves"
+    },
+    {
+      "raw": "1½ teaspoons finely chopped ginger",
+      "quantity": "1½",
+      "unit": "teaspoons",
+      "name": "finely chopped ginger"
+    },
+    {
+      "raw": "1 large onion, chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "large onion, chopped"
+    },
+    {
+      "raw": "½ cup green peas",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup green peas"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "1 teaspoon sugar",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "sugar"
+    },
+    {
+      "raw": "3 tablespoons chopped fresh coriander leaves",
+      "quantity": "3",
+      "unit": "tablespoons",
+      "name": "chopped fresh coriander leaves"
+    },
+    {
+      "raw": "Fresh coriander sprig for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Fresh coriander sprig for garnish"
+    }
+  ],
+  "steps": [
+    "Take yogurt in a bowl, add 3 cups water and whisk well.",
+    "Heat a non-stick kadai, add semolina and dry roast on medium heat till light brown. Transfer into a bowl and set aside.",
+    "Heat ghee in same kadai, add mustard seeds and once they begin to splutter, add asafoetida and split black gram, mix and saute for 30 seconds.",
+    "Add green chilli, curry leaves and ginger, mix and sauté for 30 seconds.",
+    "Add onion, mix and sauté on medium heat for 3-4 minutes.",
+    "Add green peas, salt and sugar, mix well and cook for 2-3 minutes.",
+    "Add dry roasted semolina and mix well. Add yogurt mixture and mix well.",
+    "Add coriander leaves, mix well, cover and cook on medium heat for 6-8 minutes.",
+    "Transfer into a round bowl and press well, demould onto a serving plate, garnish with coriander sprig and serve hot."
+  ],
+  "tags": [
+    "Asafoetida",
+    "Coarse semolina (jada rava)",
+    "Curry leaves",
+    "Fresh coriander leaves",
+    "Ghee",
+    "Ginger",
+    "Green chilli",
+    "Green peas",
+    "Mustard seeds",
+    "Onion",
+    "Salt",
+    "Sugar",
+    "Yogurt",
+    "Split skinless black gram (dhuli urad dal)"
+  ],
+  "scraped_at": "2026-06-03T11:43:54.284306009+05:30"
+}

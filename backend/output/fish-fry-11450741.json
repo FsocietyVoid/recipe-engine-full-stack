@@ -1,0 +1,138 @@
+{
+  "id": "fish-fry-11450741",
+  "title": "Fish Fry",
+  "url": "https://www.sanjeevkapoor.com/Recipe/fish-fry-11450741",
+  "description": "Fish marinated in masala made in various combination, rolled in spiced semolina-rice flour mixture or in spiced bread crumbs and shallow-fried or deep fried make a wonderful starter. It can also be served with dal and rice to make a memorable meal.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "04 Apr 2026",
+  "cuisine": "Maharashtrian",
+  "course": "Starte",
+  "prep_time": "10-15 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "4",
+  "taste": "Spicy",
+  "cooking_level": "Easy",
+  "diet_type": "Non vegetarian",
+  "main_ingredients": [
+    "King fish (surmai) darnes",
+    "Green chilli paste",
+    "Tamarind pulp",
+    "Garlic paste",
+    "Turmeric powder",
+    "Red chilli powder",
+    "Agri koli masala",
+    "Salt",
+    "Semolina",
+    "Fresh coriander leaves",
+    "Rice flour",
+    "Oil"
+  ],
+  "ingredients": [
+    {
+      "raw": "4 king fish (surmai) darnes",
+      "quantity": "4",
+      "unit": "",
+      "name": "king fish  darnes"
+    },
+    {
+      "raw": "1 tablespoon green chilli paste",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "green chilli paste"
+    },
+    {
+      "raw": "1½ tablespoons tamarind pulp",
+      "quantity": "1½",
+      "unit": "tablespoons",
+      "name": "tamarind pulp"
+    },
+    {
+      "raw": "2 tablespoons garlic paste",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "garlic paste"
+    },
+    {
+      "raw": "½ teaspoon turmeric powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon turmeric powder"
+    },
+    {
+      "raw": "2 teaspoons red chilli powder",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "red chilli powder"
+    },
+    {
+      "raw": "1½ teaspoons agri koli masala",
+      "quantity": "1½",
+      "unit": "teaspoons",
+      "name": "agri koli masala"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "1 cup fine semolina (sooji)",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "fine semolina"
+    },
+    {
+      "raw": "1 tablespoon chopped fresh coriander leaves",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "chopped fresh coriander leaves"
+    },
+    {
+      "raw": "2 tablespoons rice flour",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "rice flour"
+    },
+    {
+      "raw": "Oil for shallow-frying",
+      "quantity": "",
+      "unit": "",
+      "name": "Oil for shallow-frying"
+    },
+    {
+      "raw": "Onion slices for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Onion slices for serving"
+    },
+    {
+      "raw": "Lemon wedges for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Lemon wedges for serving"
+    }
+  ],
+  "steps": [
+    "Take green chilli paste in a bowl, add tamarind pulp, garlic paste, turmeric powder, 1½ teaspoons red chilli powder, agri koli masala and salt and mix well.",
+    "Add fish pieces and apply the masala well all around.",
+    "Spread semolina on a plate, add ½ teaspoon red chilli powder, salt, coriander leaves and rice flour and mix well.",
+    "Heat sufficient oil in a shallow pan. Roll the fish darnes in semolina mixture, place 2 of them in the hot pan and cook on medium heat for 3-4 minutes.",
+    "Flip and cook for 3-4 minutes more on the other side. Drain on absorbent paper. Cook the remaining 2 in the same way.",
+    "Arrange them on a serving plate and serve hot with onion slices and lemon wedges."
+  ],
+  "tags": [
+    "Fresh coriander leaves",
+    "Garlic paste",
+    "Green chilli paste",
+    "King fish (surmai)",
+    "Oil",
+    "Red chilli powder",
+    "Rice flour",
+    "Tamarind pulp",
+    "Turmeric powder",
+    "Fine Semolina"
+  ],
+  "scraped_at": "2026-06-03T11:44:37.921752928+05:30"
+}

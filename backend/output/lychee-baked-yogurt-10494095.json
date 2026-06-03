@@ -1,0 +1,72 @@
+{
+  "id": "lychee-baked-yogurt-10494095",
+  "title": "Lychee Baked Yogurt",
+  "url": "https://www.sanjeevkapoor.com/Recipe/lychee-baked-yogurt-10494095",
+  "description": "Try this delicious dessert while the lychees are in season. It is so very easy to make yet the end result is irresistible.\nThis is Sanjeev Kapoor exclusive recipe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "01 Jun 2026",
+  "cuisine": "Fusion",
+  "course": "Desserts",
+  "prep_time": "3-4 hours",
+  "cook_time": "10-15 minutes",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Lychees",
+    "Yogurt",
+    "Fresh cream",
+    "Condensed milk",
+    "Fresh mint sprigs"
+  ],
+  "ingredients": [
+    {
+      "raw": "10-12 lychees",
+      "quantity": "10",
+      "unit": "",
+      "name": "-12 lychees"
+    },
+    {
+      "raw": "½ cup fresh cream",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup fresh cream"
+    },
+    {
+      "raw": "½ cup condensed milk",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup condensed milk"
+    },
+    {
+      "raw": "½ cup yogurt",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup yogurt"
+    },
+    {
+      "raw": "Fresh mint sprigs for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Fresh mint sprigs for garnish"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180º C.",
+    "Peel lychees, remove their seeds and cut the pulp into small pieces.",
+    "Take fresh cream in a bowl, add condensed milk, yogurt and chopped lychees and mix till well combined.",
+    "Transfer the mixture into individual earthen bowls. Cover with aluminium foil and make a few holes on it.",
+    "Arrange the bowls on a baking tray, pour some water in the tray and place it in the preheated oven and bake for 12-15 minutes.",
+    "Bring the tray out of the oven and allow the baked yogurt to cool completely. Refrigerate till chilled. Remove the aluminium foil and garnish the baked yogurt with mint sprigs and serve."
+  ],
+  "tags": [
+    "Condensed milk",
+    "Fresh cream",
+    "Fresh mint sprigs",
+    "Lychees",
+    "Yogurt"
+  ],
+  "scraped_at": "2026-06-03T11:43:20.052799043+05:30"
+}

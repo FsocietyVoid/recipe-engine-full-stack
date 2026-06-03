@@ -1,0 +1,76 @@
+{
+  "id": "jamun-fuljar-soda-10494390",
+  "title": "Jamun Fuljar Soda",
+  "url": "https://www.sanjeevkapoor.com/Recipe/jamun-fuljar-soda-10494390",
+  "description": "Ever tried jamun soda? If not do not waste any time and follow this recipe when jamun are in season.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "05 May 2026",
+  "cuisine": "Indian",
+  "course": "Beverage",
+  "prep_time": "10-15 minutes",
+  "cook_time": "0 minute",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Java plums (jamun)",
+    "Fresh mint leaves",
+    "Sugar",
+    "Lemon",
+    "Salt",
+    "Drinking soda"
+  ],
+  "ingredients": [
+    {
+      "raw": "250 grams java plums (jamun)",
+      "quantity": "250",
+      "unit": "grams",
+      "name": "java plums"
+    },
+    {
+      "raw": "10-15 fresh mint leaves",
+      "quantity": "10",
+      "unit": "",
+      "name": "-15 fresh mint leaves"
+    },
+    {
+      "raw": "1½ tablespoons sugar",
+      "quantity": "1½",
+      "unit": "tablespoons",
+      "name": "sugar"
+    },
+    {
+      "raw": "½ lemon",
+      "quantity": "",
+      "unit": "",
+      "name": "½ lemon"
+    },
+    {
+      "raw": "½ teaspoon salt",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon salt"
+    },
+    {
+      "raw": "400 millilitre drinking soda",
+      "quantity": "400",
+      "unit": "millilitre",
+      "name": "drinking soda"
+    }
+  ],
+  "steps": [
+    "Deseed jamuns and put the pulp into a blender jar. Add mint leaves, sugar, squeeze the juice of lemon directly into it. Add salt and blend to a fine puree. Transfer into 4 individual shot glasses.",
+    "Take drinking soda in 4 individual highball glasses, and drop each shot glass with the jamun mixture into each highball glass. Serve immediately."
+  ],
+  "tags": [
+    "Drinking soda",
+    "Fresh mint leaves",
+    "Jamuns",
+    "Lemon",
+    "Salt",
+    "Sugar"
+  ],
+  "scraped_at": "2026-06-03T11:42:55.043824905+05:30"
+}

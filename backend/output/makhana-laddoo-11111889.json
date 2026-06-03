@@ -1,0 +1,103 @@
+{
+  "id": "makhana-laddoo-11111889",
+  "title": "Makhana Laddoo",
+  "url": "https://www.sanjeevkapoor.com/Recipe/makhana-laddoo-11111889",
+  "description": "Makhanas are low in calories and fat but rich in plant protein and complex carbohydrates. They can be turned into various dishes and here we have made them into laddoos with dates and nuts that make them very nutritious on medium heat ious that can be beneficial to both children and adults.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "11 May 2026",
+  "cuisine": "Indian",
+  "course": "Mithais",
+  "prep_time": "25-30 minutes",
+  "cook_time": "5-10 minutes",
+  "servings": "",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Puffed lotus seeds (makhana)",
+    "Seedless dates",
+    "Almonds",
+    "Pistachios",
+    "Cashewnuts",
+    "Green cardamom powder",
+    "Dried rose petals",
+    "Desiccated coconut"
+  ],
+  "ingredients": [
+    {
+      "raw": "1½ cups puffed lotus seeds (makhana)",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "puffed lotus seeds"
+    },
+    {
+      "raw": "6-8 seedless dates",
+      "quantity": "6",
+      "unit": "",
+      "name": "-8 seedless dates"
+    },
+    {
+      "raw": "¼ cup roughly chopped almonds",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ cup roughly chopped almonds"
+    },
+    {
+      "raw": "¼ cup pistachios",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ cup pistachios"
+    },
+    {
+      "raw": "5-6 cashewnuts",
+      "quantity": "5",
+      "unit": "",
+      "name": "-6 cashewnuts"
+    },
+    {
+      "raw": "½ teaspoon green cardamom powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon green cardamom powder"
+    },
+    {
+      "raw": "Pistachio powder for coating",
+      "quantity": "",
+      "unit": "",
+      "name": "Pistachio powder for coating"
+    },
+    {
+      "raw": "Dried rose petal powder for coating",
+      "quantity": "",
+      "unit": "",
+      "name": "Dried rose petal powder for coating"
+    },
+    {
+      "raw": "Desiccated coconut for coating",
+      "quantity": "",
+      "unit": "",
+      "name": "Desiccated coconut for coating"
+    }
+  ],
+  "steps": [
+    "Heat a non-stick pan, add puffed lotus seeds and dry roast on medium heat for 5-6 minutes. Set aside to cool.",
+    "Transfer into a food processor and process to a coarse mixture.",
+    "Add dates, almonds, pistachios and cashewnuts and process to a coarse mixture.",
+    "Transfer the ground mixture onto a plate, add green cardamom powder and mix well.",
+    "Divide the mixture into equal portions and roll each into a laddoo. Take pistachio powder, dried rose petal powder and desiccared coconut in 3 separate bowls.",
+    "Roll some laddoos in pistachio powder, some in dried rose petal powder and remaining in desiccated coconut.",
+    "Arrange the laddoos on a serving plate and serve."
+  ],
+  "tags": [
+    "Almonds",
+    "Cashewnuts",
+    "Desiccated coconut",
+    "Dried rose petals",
+    "Green cardamom powder",
+    "Pistachios",
+    "Seedless dates",
+    "Puffed lotus seeds (makhana)"
+  ],
+  "scraped_at": "2026-06-03T11:42:38.73867572+05:30"
+}

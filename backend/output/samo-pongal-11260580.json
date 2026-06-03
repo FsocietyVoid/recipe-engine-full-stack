@@ -1,0 +1,118 @@
+{
+  "id": "samo-pongal-11260580",
+  "title": "Samo Pongal",
+  "url": "https://www.sanjeevkapoor.com/Recipe/samo-pongal-11260580",
+  "description": "Ven Pongal is a popular savoury comfort food, which is a creamy, porridge-like mixture of rice and yellow moong lentils seasoned with ghee, ginger, black pepper and curry leaves. Here we bring you version in which barnyard millet or samo replaces rice.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "07 Apr 2026",
+  "cuisine": "Tamil Nadu",
+  "course": "Rice",
+  "prep_time": "30-35 minutes",
+  "cook_time": "25-30 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Barnyard millet (samo)",
+    "Spolit skinless green gram (dhuli moong dal)",
+    "Ghee",
+    "Cashewnuts",
+    "Cumin seeds",
+    "Black peppercorns",
+    "Ginger",
+    "Curry leaves",
+    "Asafoetida",
+    "Fresh coriander leaves"
+  ],
+  "ingredients": [
+    {
+      "raw": "1 cup barnyard millet (samo), washed and drained",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "barnyard millet , washed and drained"
+    },
+    {
+      "raw": "½ cup split skinless green gram (dhuli moong dal), soaked for 20 minutes and drained",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup split skinless green gram , soaked for 20 minutes and drained"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "4 tablespoons ghee",
+      "quantity": "4",
+      "unit": "tablespoons",
+      "name": "ghee"
+    },
+    {
+      "raw": "10-15 cashewnuts, halved",
+      "quantity": "10",
+      "unit": "",
+      "name": "-15 cashewnuts, halved"
+    },
+    {
+      "raw": "2 teaspoons cumin seeds",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "cumin seeds"
+    },
+    {
+      "raw": "10-12 black peppercorns",
+      "quantity": "10",
+      "unit": "",
+      "name": "-12 black peppercorns"
+    },
+    {
+      "raw": "2 teaspoons grated ginger",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "grated ginger"
+    },
+    {
+      "raw": "10-15 curry leaves",
+      "quantity": "10",
+      "unit": "",
+      "name": "-15 curry leaves"
+    },
+    {
+      "raw": "A pinch of asafoetida",
+      "quantity": "",
+      "unit": "",
+      "name": "A pinch of asafoetida"
+    },
+    {
+      "raw": "Fresh coriander sprig for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Fresh coriander sprig for garnish"
+    }
+  ],
+  "steps": [
+    "Heat a pressure cooker, add barnyard millet, split skinless green gram, 4 cups water and salt and mix well.",
+    "Cover with the lid and cook under pressure on medium heat till the pressure is released 4 times. Open the lid once the pressure settles completely. Mash lightly.",
+    "Heat ghee in a non-stick kadai, add cashewnuts and sauté till golden brown. Drain and set aside on a plate.",
+    "Add cumin seeds to the same kadai and once they start to change colour, add black peppercorns, ginger, curry leaves and asafoetida, mix and sauté for 1 minute.",
+    "Add barnyard millet mixture and 1½ cups hot water, mix well and cook for 4-5 minutes. Add half the fried cashewnuts and mix well.",
+    "Transfer into a serving bowl, sprinkle remaining fried cashewnuts on top, garnish with coriander sprig and serve hot."
+  ],
+  "tags": [
+    "Asafoetida",
+    "Black peppercorns",
+    "Cashewnuts",
+    "Cumin seeds",
+    "Curry leaves",
+    "Fresh coriander sprigs",
+    "Ghee",
+    "Ginger",
+    "Split skinless green gram (dhuli moong dal)",
+    "Barnyard Millet"
+  ],
+  "scraped_at": "2026-06-03T11:43:27.051468568+05:30"
+}

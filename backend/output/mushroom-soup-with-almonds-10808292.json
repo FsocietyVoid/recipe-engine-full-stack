@@ -1,0 +1,101 @@
+{
+  "id": "mushroom-soup-with-almonds-10808292",
+  "title": "Mushroom Soup With Almonds",
+  "url": "https://www.sanjeevkapoor.com/Recipe/mushroom-soup-with-almonds-10808292",
+  "description": "This hearty and creamy mushroom soup is rich and full of umami flavour.  Almonds also lend their unique flavour and texture and it is sure to become your family’s favourite.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "03 May 2026",
+  "cuisine": "Fusion",
+  "course": "Soups",
+  "prep_time": "25-30 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "4",
+  "taste": "Mild",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Button mushrooms",
+    "Almonds",
+    "Butter",
+    "Onion",
+    "Salt",
+    "White pepper powder",
+    "Milk"
+  ],
+  "ingredients": [
+    {
+      "raw": "300 grams button mushrooms, roughly sliced",
+      "quantity": "300",
+      "unit": "grams",
+      "name": "button mushrooms, roughly sliced"
+    },
+    {
+      "raw": "15-20 almonds, blanched and peeled",
+      "quantity": "15",
+      "unit": "",
+      "name": "-20 almonds, blanched and peeled"
+    },
+    {
+      "raw": "Blanched, peeled and slivered almonds for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Blanched, peeled and slivered almonds for garnish"
+    },
+    {
+      "raw": "2 tablespoons butter",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "butter"
+    },
+    {
+      "raw": "1 medium onion, chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "medium onion, chopped"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "White pepper powder to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "White pepper powder to taste"
+    },
+    {
+      "raw": "1½ cups milk",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "milk"
+    },
+    {
+      "raw": "Toasted sourdough bread slices for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Toasted sourdough bread slices for serving"
+    }
+  ],
+  "steps": [
+    "Heat butter in a deep non-stick pan, add onion and sauté till translucent.",
+    "Add mushrooms, mix and sauté for 3-4 minutes.",
+    "Add salt, white pepper powder and almonds and mix well.",
+    "Add almonds, mix well, cover and cook for 2-3 minutes. Take the pan off the heat and allow to cool completely.",
+    "Transfer into a grinder jar and grind to semi-fine paste.",
+    "Transfer into the same pan. Rinse the jar with ½ cup water, add to the pan and mix well. Add milk, mix well and bring it to a boil. Cover and rest for 2-3 minutes.",
+    "Transfer into serving bowls, sprinkle some white pepper powder, garnish with almond slivers and serve hot with toasted sourdough bread slices."
+  ],
+  "tags": [
+    "Almonds",
+    "Butter",
+    "Button mushrooms",
+    "Milk",
+    "Onion",
+    "Salt",
+    "White pepper powder"
+  ],
+  "scraped_at": "2026-06-03T11:42:18.470183736+05:30"
+}

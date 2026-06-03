@@ -1,0 +1,78 @@
+{
+  "id": "masala-kaju-11359023",
+  "title": "Masala Kaju",
+  "url": "https://www.sanjeevkapoor.com/Recipe/masala-kaju-11359023",
+  "description": "This dish may be simple and easy to make but it makes a fantastic starter. Crisp and flavourful  cashewnuts cooked this way are simply divine to taste and can be enjoyed by both adults and children.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "06 Apr 2026",
+  "cuisine": "Indian",
+  "course": "Snack and starter",
+  "prep_time": "5-10 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "",
+  "taste": "Tangy",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Cashewnuts",
+    "Kashmiri red chilli powder",
+    "Turmeric powder",
+    "Chaat masala",
+    "Ghee",
+    "Salt"
+  ],
+  "ingredients": [
+    {
+      "raw": "1 cup cashewnuts",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "cashewnuts"
+    },
+    {
+      "raw": "½ teaspoon Kashmiri red chilli powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon Kashmiri red chilli powder"
+    },
+    {
+      "raw": "¼ teaspoon turmeric powder",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ teaspoon turmeric powder"
+    },
+    {
+      "raw": "½ teaspoon chaat masala",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon chaat masala"
+    },
+    {
+      "raw": "2 teaspoons ghee",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "ghee"
+    },
+    {
+      "raw": "½ teaspoon salt",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon salt"
+    }
+  ],
+  "steps": [
+    "Preheat the air fryer at 150° C for 5 minutes.",
+    "Take cashewnuts in a bowl, add Kashmiri red chilli powder, turmeric powder, chaat masala, ghee and salt and mix well.",
+    "Spread the cashewnuts evenly in air fry basket, fit the basket to the air fryer and air fry for 15 minutes.",
+    "Bring the basket out of the air fryer and allow to cool. Transfer into a serving bowl and serve."
+  ],
+  "tags": [
+    "Cashewnuts",
+    "Chaat masala",
+    "Ghee",
+    "Salt",
+    "Turmeric powder",
+    "Kashmiri red chlli powder"
+  ],
+  "scraped_at": "2026-06-03T11:44:33.820723099+05:30"
+}

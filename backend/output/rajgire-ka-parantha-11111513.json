@@ -1,0 +1,89 @@
+{
+  "id": "rajgire-ka-parantha-11111513",
+  "title": "Rajgire Ka Parantha",
+  "url": "https://www.sanjeevkapoor.com/Recipe/rajgire-ka-parantha-11111513",
+  "description": "Soft, flavorful rajgira parathas made with mashed potatoes and spices, perfect for a wholesome, gluten-free meal. This is Sanjeev Kapoor exclusive recipe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "05 May 2026",
+  "cuisine": "Indian",
+  "course": "Breads",
+  "prep_time": "20-25 minutes",
+  "cook_time": "20-25 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Amaranth flour (rajgire ka atta)",
+    "Rock salt (sendha namak)",
+    "Roasted cumin powder",
+    "Fresh coriander leaves",
+    "Ginger-green chilli paste",
+    "Potatoes",
+    "Ghee"
+  ],
+  "ingredients": [
+    {
+      "raw": "1½ cups amaranth (rajgira) flour",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "amaranth  flour"
+    },
+    {
+      "raw": "Rock salt (sendha namak) to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Rock salt  to taste"
+    },
+    {
+      "raw": "½ teaspoon roasted cumin powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon roasted cumin powder"
+    },
+    {
+      "raw": "2 tablespoons chopped fresh coriander leaves",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped fresh coriander leaves"
+    },
+    {
+      "raw": "2 teaspoons ginger-green chilli paste",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "ginger-green chilli paste"
+    },
+    {
+      "raw": "2 medium potatoes, boiled and peeled",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium potatoes, boiled and peeled"
+    },
+    {
+      "raw": "1 tablespoon ghee + for greasing and cooking",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "ghee + for greasing and cooking"
+    }
+  ],
+  "steps": [
+    "Take amaranth flour in a bowl, add rock salt, roasted cumin powder, coriander leaves and ginger-green chilli paste.",
+    "Mash the potatoes and add to the bowl and mix. Add ghee and mix well. Add ½ cup warm water and knead to soft dough.",
+    "Grease the worktop with some ghee. Heat a non-stick tawa.",
+    "Divide the dough into equal portions. Roll each portion into a thick disc.",
+    "Place one parantha at a time on it and cook on medium heat for 2-3 minutes.",
+    "Flip, apply some ghee and cook for 2-3 minutes more. Flip again, apply some ghee and cook till both sides are evenly golden.",
+    "Arrange them on a serving plate and serve hot."
+  ],
+  "tags": [
+    "Boiled potatoes",
+    "Fresh coriander leaves",
+    "Ghee",
+    "Ginger-green chilli paste",
+    "Rajgira flour",
+    "Roasted cumin powder",
+    "Rock salt (sendha namak)"
+  ],
+  "scraped_at": "2026-06-03T11:43:55.104391993+05:30"
+}

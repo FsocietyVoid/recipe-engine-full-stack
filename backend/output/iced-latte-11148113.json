@@ -1,0 +1,52 @@
+{
+  "id": "iced-latte-11148113",
+  "title": "Iced Latte",
+  "url": "https://www.sanjeevkapoor.com/Recipe/iced-latte-11148113",
+  "description": "Iced latte is a cold coffee made by mixing espresso shots with cold milk and ice. It is a creamier mixture that has a higher milk to coffee ratio than cold coffee. So enjoy it to the fullest.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "02 May 2026",
+  "cuisine": "American",
+  "course": "Beverage",
+  "prep_time": "10-15 minutes",
+  "cook_time": "0 minute",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Espresso",
+    "Milk",
+    "Ice cubes"
+  ],
+  "ingredients": [
+    {
+      "raw": "240 millilitres espresso",
+      "quantity": "240",
+      "unit": "",
+      "name": "millilitres espresso"
+    },
+    {
+      "raw": "3 cups milk",
+      "quantity": "3",
+      "unit": "cups",
+      "name": "milk"
+    },
+    {
+      "raw": "24-32 ice cubes",
+      "quantity": "24",
+      "unit": "",
+      "name": "-32 ice cubes"
+    }
+  ],
+  "steps": [
+    "For each portion pour 60 ml espresso in a mason jar. Add ½ cup hot water and top up with ¾ cup milk and mix well.",
+    "Add 6-8 ice cubes and mix. Serve chilled."
+  ],
+  "tags": [
+    "Espresso coffee shots",
+    "Ice cubes",
+    "Milk"
+  ],
+  "scraped_at": "2026-06-03T11:43:31.167381707+05:30"
+}

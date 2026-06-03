@@ -1,0 +1,64 @@
+{
+  "id": "idiyappam-11444166",
+  "title": "Idiyappam",
+  "url": "https://www.sanjeevkapoor.com/Recipe/idiyappam-11444166",
+  "description": "Idiyappam also known as string hoppers is a much loved snack in the South Indian states. It consists of rice flour cooked in hot water, kneaded into a soft dough and pressed into noodles on greased banana leaf piece.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "05 Apr 2026",
+  "cuisine": "South Indian",
+  "course": "Snack",
+  "prep_time": "10-15 minutes",
+  "cook_time": "30-35 minutes",
+  "servings": "4",
+  "taste": "Mild",
+  "cooking_level": "Moderate",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Idiyappam flour",
+    "Salt",
+    "Oil",
+    "Vegetable stew"
+  ],
+  "ingredients": [
+    {
+      "raw": "1½ cups idiyappam flour",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "idiyappam flour"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "Oil for greasing",
+      "quantity": "",
+      "unit": "",
+      "name": "Oil for greasing"
+    },
+    {
+      "raw": "Vegetable stew for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Vegetable stew for serving"
+    }
+  ],
+  "steps": [
+    "Boil 1½ cups water in a non-stick pan, add salt and idiyappam flour and mix well. Sprinkle 2-3 tablespoons water, cover and cook on medium heat for 4-5 minutes.",
+    "Transfer into a bowl and knead well to a soft dough.",
+    "Divide the mixture into 2 portions and roll into logs.",
+    "Grease banana leaf pieces with some oil.",
+    "Transfer the logs, one at a time, into a greased chakli press fitted with medium sev attachment and press roundels on the greased banana leaf pieces.",
+    "Heat sufficient water in the lower vessel of a steamer, place the leaves in the perforated vessel and steam for 8-10 minutes.",
+    "Transfer the roundels onto a serving plate and serve with vegetable stew."
+  ],
+  "tags": [
+    "Oil",
+    "Rice flour",
+    "Salt"
+  ],
+  "scraped_at": "2026-06-03T11:44:52.85331727+05:30"
+}

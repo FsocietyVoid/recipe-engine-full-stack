@@ -1,0 +1,123 @@
+{
+  "id": "osaman-11175910",
+  "title": "Osaman",
+  "url": "https://www.sanjeevkapoor.com/Recipe/osaman-11175910",
+  "description": "A classic Gujarati soup which is light, nutritious and lightly spiced that is extremely comforting to have on a cold night. Made with the water in which sabut moong is boiled and a few spices to add flavour.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "02 May 2026",
+  "cuisine": "Gujarati",
+  "course": "Soup",
+  "prep_time": "6-8 hours",
+  "cook_time": "40-45 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Whole green gram (sabut moong)",
+    "Cinnamon",
+    "Cloves",
+    "Green chillies",
+    "Mustard seeds",
+    "Cumin seeds",
+    "Asafoetida",
+    "Curry leaves",
+    "Turmeric powder",
+    "Fresh coriander leaves"
+  ],
+  "ingredients": [
+    {
+      "raw": "1 cup whole green gram (sabut moong), soaked for 6-8 hours and drained",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "whole green gram , soaked for 6-8 hours and drained"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "1 tablespoon oil",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "oil"
+    },
+    {
+      "raw": "1 inch cinnamon",
+      "quantity": "1",
+      "unit": "",
+      "name": "inch cinnamon"
+    },
+    {
+      "raw": "3-4 cloves",
+      "quantity": "3",
+      "unit": "",
+      "name": "-4 cloves"
+    },
+    {
+      "raw": "2 green chillies, slit",
+      "quantity": "2",
+      "unit": "",
+      "name": "green chillies, slit"
+    },
+    {
+      "raw": "½ teaspoon mustard seeds",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon mustard seeds"
+    },
+    {
+      "raw": "1 teaspoon cumin seeds",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds"
+    },
+    {
+      "raw": "A pinch of asafoetida",
+      "quantity": "",
+      "unit": "",
+      "name": "A pinch of asafoetida"
+    },
+    {
+      "raw": "8-10 curry leaves",
+      "quantity": "8",
+      "unit": "",
+      "name": "-10 curry leaves"
+    },
+    {
+      "raw": "½ teaspoon turmeric powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon turmeric powder"
+    },
+    {
+      "raw": "2-3 tablespoons chopped fresh coriander leaves",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons chopped fresh coriander leaves"
+    }
+  ],
+  "steps": [
+    "Heat a deep non-stick pan, add drained whole green gram, 5-6 cups water and salt and mix well. Cook on medium heat for 25-30 minutes or till the green gram is completely cooked, discarding the scum that rises to the top. Strain the water into a jar and set aside. Reserve the whole green gram to use in another dish.",
+    "Heat oil in a non-stick kadai, add cinnamon and cloves, mix and sauté till fragrant.",
+    "Add green chillies and mustard seeds and once the seeds start to splutter, add cumin seeds, asafoetida and curry leaves, mix and sauté for 30 seconds.",
+    "Lower the heat, add turmeric powder and mix well. Add the strained water, salt and coriander leaves, mix and boil the mixture for 6-8 minutes.",
+    "Transfer into a serving bowl and serve hot."
+  ],
+  "tags": [
+    "Asafoetida",
+    "Cinnamon",
+    "Cloves",
+    "Cumin seeds",
+    "Curry leaves",
+    "Fresh coriander leaves",
+    "Green chillies",
+    "Mustard seeds",
+    "Turmeric powder",
+    "Whole green grams (sabut moong)"
+  ],
+  "scraped_at": "2026-06-03T11:44:21.980099088+05:30"
+}

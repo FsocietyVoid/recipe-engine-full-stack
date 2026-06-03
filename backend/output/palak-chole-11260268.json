@@ -1,0 +1,158 @@
+{
+  "id": "palak-chole-11260268",
+  "title": "Palak Chole",
+  "url": "https://www.sanjeevkapoor.com/Recipe/palak-chole-11260268",
+  "description": "Chole is one of the most popular dishes of Punjabi cuisine. Palak too is an ingredient which is used in various ways in this cuisine. Here we have combined the two to make an absolutely delicious dish that will satiate most foodies.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "07 Apr 2026",
+  "cuisine": "Punjabi",
+  "course": "Main course vegetarian",
+  "prep_time": "8-9 hours",
+  "cook_time": "20-25 minutes",
+  "servings": "4",
+  "taste": "Spices",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Spinach (poalak)",
+    "Chickpeas (chole)",
+    "Ghee",
+    "Cumin seeds",
+    "Garlic",
+    "Green chillies",
+    "Onions",
+    "Coriander powder",
+    "Garam masala powder",
+    "Dried fenugreek leaves powder",
+    "Butter",
+    "Fresh cream",
+    "Dried red chillies",
+    "Paranthe"
+  ],
+  "ingredients": [
+    {
+      "raw": "2 medium bunches of spinach (palak)",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium bunches of spinach"
+    },
+    {
+      "raw": "2 cups boiled chickpeas (chole)",
+      "quantity": "2",
+      "unit": "cups",
+      "name": "boiled chickpeas"
+    },
+    {
+      "raw": "4 tablespoons ghee",
+      "quantity": "4",
+      "unit": "tablespoons",
+      "name": "ghee"
+    },
+    {
+      "raw": "1½ teaspoons cumin seeds",
+      "quantity": "1½",
+      "unit": "teaspoons",
+      "name": "cumin seeds"
+    },
+    {
+      "raw": "2½ tablespoons chopped garlic",
+      "quantity": "2½",
+      "unit": "tablespoons",
+      "name": "chopped garlic"
+    },
+    {
+      "raw": "2 green chillies, chopped",
+      "quantity": "2",
+      "unit": "",
+      "name": "green chillies, chopped"
+    },
+    {
+      "raw": "2 medium onions, chopped",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium onions, chopped"
+    },
+    {
+      "raw": "1 teaspoon coriander powder",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "coriander powder"
+    },
+    {
+      "raw": "½ teaspoon garam masala powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon garam masala powder"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "½ teaspoon dried fenugreek leaves (kasuri methi) powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon dried fenugreek leaves  powder"
+    },
+    {
+      "raw": "1 cup chickpea cooking water",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "chickpea cooking water"
+    },
+    {
+      "raw": "2 tablespoons butter",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "butter"
+    },
+    {
+      "raw": "2 tablespoons fresh cream + to drizzle",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "fresh cream + to drizzle"
+    },
+    {
+      "raw": "3-4 dried red chillies",
+      "quantity": "3",
+      "unit": "",
+      "name": "-4 dried red chillies"
+    },
+    {
+      "raw": "Paranthe for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Paranthe for serving"
+    }
+  ],
+  "steps": [
+    "Boil sufficient water in a pan, add spinach leaves and blanch for 30 seconds. Drain and dip into chilled water. Drain, squeeze excess water and transfer the spinach into a grinder jar. Add ½ cup water and grind to fine paste.",
+    "Heat 2 tablespoons ghee in a pan, add cumin seeds and once they start to change colour, add 1½ tablespoons garlic, mix and sauté till golden brown.",
+    "Add green chillies, mix and sauté for 30 seconds. Add onions, mix and sauté till golden brown.",
+    "Add ground paste and mix well. Add coriander powder and garam masala powder and mix well.",
+    "Add boiled chickpeas, salt and dried fenugreek leaves powder and mix well.",
+    "Add chickpea cooking water, mix well and cook for 4-5 minutes on medium heat.",
+    "Add butter and fresh cream and mix well.",
+    "Heat 2 tablespoons ghee in a small non-stick pan, add 1 tablespoon garlic and sauté till golden brown. Add dried red chillies and mix well.",
+    "Transfer the palak chole into serving bowl and pour the prepared tempering on top. Drizzle fresh cream and serve hot with paranthe."
+  ],
+  "tags": [
+    "Butter",
+    "Coriander powder",
+    "Cumin seeds",
+    "Dried red chillies",
+    "Fresh cream",
+    "Garam masala powder",
+    "Garlic",
+    "Ghee",
+    "Green chillies",
+    "Onions",
+    "Spinach",
+    "Dried fenugreek leaves (kasuri methi) powder",
+    "Chickpeas"
+  ],
+  "scraped_at": "2026-06-03T11:43:38.223498714+05:30"
+}

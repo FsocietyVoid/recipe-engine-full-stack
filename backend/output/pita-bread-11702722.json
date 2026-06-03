@@ -1,0 +1,81 @@
+{
+  "id": "pita-bread-11702722",
+  "title": "Pita Bread",
+  "url": "https://www.sanjeevkapoor.com/Recipe/pita-bread-11702722",
+  "description": "Pita bread is popular middle eastern flatbread that is leavened with yeast and baked. Pita is also known to have an interior pocket that can be stuffed with falafel, hummus, tzatziki or grilled chicken or a tangy vegetables salad.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "20 Apr 2026",
+  "cuisine": "Middle Eastern",
+  "course": "Breads",
+  "prep_time": "1-2 hours",
+  "cook_time": "30-35 minutes",
+  "servings": "8",
+  "taste": "Mild",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Refined flour",
+    "Instant dried yeast",
+    "Sugar",
+    "Salt",
+    "Oil",
+    "Hummus"
+  ],
+  "ingredients": [
+    {
+      "raw": "250 grams refined flour (maida)",
+      "quantity": "250",
+      "unit": "grams",
+      "name": "refined flour"
+    },
+    {
+      "raw": "1 teaspoon instant dried yeast",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "instant dried yeast"
+    },
+    {
+      "raw": "¼ teaspoon sugar",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ teaspoon sugar"
+    },
+    {
+      "raw": "½ teaspoon salt",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon salt"
+    },
+    {
+      "raw": "1 tablespoon oil + for greasing",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "oil + for greasing"
+    },
+    {
+      "raw": "Hummus to serve",
+      "quantity": "",
+      "unit": "",
+      "name": "Hummus to serve"
+    }
+  ],
+  "steps": [
+    "Take instant dried yeast in a bowl, add sugar, refined flour, salt and 1 tablespoon oil.",
+    "Add 130 millilitres water and knead to soft dough. Cover with a moist muslin cloth and set aside for 1 hour.",
+    "Dust some refined flour on the worktop, place the dough over it and roll it into a log. Divide into 16 equal portions and roll each portion into a ball.",
+    "Dust some more refined flour on the worktop, roll the balls into oval shape. Cover again with a moist muslin cloth and set aside for 15 minutes.",
+    "Preheat the air fryer at 200°C for 5 minutes.",
+    "Arrange the prepared pita breads, a few at a time, in the air fryer basket, fit the basket to the air fryer and air fry for 5 minutes.",
+    "Bring the basket out of the air fryer and let the pita breads cool. Arrange them on a serving platter and serve with hummus."
+  ],
+  "tags": [
+    "Hummus",
+    "Oil",
+    "Salt",
+    "Sugar",
+    "Refined flour",
+    "Instant yeast"
+  ],
+  "scraped_at": "2026-06-03T11:42:43.423852052+05:30"
+}

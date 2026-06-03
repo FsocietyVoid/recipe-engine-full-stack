@@ -1,0 +1,91 @@
+{
+  "id": "cranberry-mango-salsa-10453615",
+  "title": "Cranberry Mango Salsa",
+  "url": "https://www.sanjeevkapoor.com/Recipe/cranberry-mango-salsa-10453615",
+  "description": "Did you know that dried cranberries are not only delicious but also packed with incredible health benefits? Here we bring you an exciting recipe that brings together the flavours of mango and cranberries in a delightful salsa.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "01 May 2026",
+  "cuisine": "Fusion",
+  "course": "Salad",
+  "prep_time": "10-15 minutes",
+  "cook_time": "0 minute",
+  "servings": "4",
+  "taste": "Tangy",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Cranberries",
+    "Ripe mango",
+    "Onion",
+    "Tomato",
+    "Green chillies",
+    "Fresh coriander leaves",
+    "Salt"
+  ],
+  "ingredients": [
+    {
+      "raw": "½ cup Pro V Regal Jumbo Cranberries",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup Pro V Regal Jumbo Cranberries"
+    },
+    {
+      "raw": "½ cup chopped ripe mango",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup chopped ripe mango"
+    },
+    {
+      "raw": "2 tablespoons chopped onion",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped onion"
+    },
+    {
+      "raw": "2 tablespoons chopped tomato",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped tomato"
+    },
+    {
+      "raw": "2 green chillies, chopped",
+      "quantity": "2",
+      "unit": "",
+      "name": "green chillies, chopped"
+    },
+    {
+      "raw": "2-3 tablespoons chopped fresh coriander leaves",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons chopped fresh coriander leaves"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "Nachos for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Nachos for serving"
+    }
+  ],
+  "steps": [
+    "Chop Pro V Regal Jumbo Cranberries and transfer in a bowl.",
+    "Add mango, onion, tomato, green chillies, coriander leaves and salt and mix well.",
+    "Transfer into a serving bowl and serve with nachos."
+  ],
+  "tags": [
+    "Cranberries",
+    "Fresh coriander leaves",
+    "Green chillies",
+    "Onion",
+    "Ripe mango",
+    "Salt",
+    "Tomato"
+  ],
+  "scraped_at": "2026-06-03T11:42:20.153247494+05:30"
+}

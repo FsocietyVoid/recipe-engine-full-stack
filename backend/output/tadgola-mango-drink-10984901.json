@@ -1,0 +1,84 @@
+{
+  "id": "tadgola-mango-drink-10984901",
+  "title": "Tadgola Mango Drink",
+  "url": "https://www.sanjeevkapoor.com/Recipe/tadgola-mango-drink-10984901",
+  "description": "Tired of drinking plain old water? Here’s a fun and flavourful way to stay hydrated! What’s more it is nutritious too. \nThis is Sanjeev Kapoor exclusive recipe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "14 May 2026",
+  "cuisine": "Indian",
+  "course": "Beverages",
+  "prep_time": "15-20 minutes",
+  "cook_time": "0 minute",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Ice apples (tadgolas)",
+    "Ripe mangoes",
+    "Mango puree",
+    "Ice cubes",
+    "Fresh mint leaves",
+    "Tender coconut water"
+  ],
+  "ingredients": [
+    {
+      "raw": "8-12 ice apples (tadgola)",
+      "quantity": "8",
+      "unit": "",
+      "name": "-12 ice apples"
+    },
+    {
+      "raw": "8-12 tablespoons chopped ripe mangoes",
+      "quantity": "8",
+      "unit": "",
+      "name": "-12 tablespoons chopped ripe mangoes"
+    },
+    {
+      "raw": "8-12 tablespoons mango puree",
+      "quantity": "8",
+      "unit": "",
+      "name": "-12 tablespoons mango puree"
+    },
+    {
+      "raw": "Ripe mango slices for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Ripe mango slices for garnish"
+    },
+    {
+      "raw": "Ice cubes as required",
+      "quantity": "",
+      "unit": "",
+      "name": "Ice cubes as required"
+    },
+    {
+      "raw": "24-32 fresh mint leaves",
+      "quantity": "24",
+      "unit": "",
+      "name": "-32 fresh mint leaves"
+    },
+    {
+      "raw": "4 cups tender coconut water",
+      "quantity": "4",
+      "unit": "cups",
+      "name": "tender coconut water"
+    }
+  ],
+  "steps": [
+    "Chop ice apples.",
+    "Put some ice cubes in each of 4 serving glasses. Add 4-6 tablespoons mango pieces and 4-6 ice apples in each glass.",
+    "Add 4-6 tablespoons mango puree and 6-8 mint leaves in each glass. Top up with 1 cup coconut water in each glass and stir lightly.",
+    "Garnish each glass with a mango slice and serve chilled."
+  ],
+  "tags": [
+    "Fresh mint leaves",
+    "Ice cubes",
+    "Mango puree",
+    "Ripe mangoes",
+    "Tadgolas",
+    "Tender coconut water"
+  ],
+  "scraped_at": "2026-06-03T11:42:04.549149156+05:30"
+}

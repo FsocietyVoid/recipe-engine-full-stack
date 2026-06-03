@@ -1,0 +1,92 @@
+{
+  "id": "spicy-momo-soup-11082219",
+  "title": "Spicy Momo Soup",
+  "url": "https://www.sanjeevkapoor.com/Recipe/spicy-momo-soup-11082219",
+  "description": "The popular stuffed dumplings from Nepal can be eaten with a dipping sauce or turned into a soup that is both delicious and comforting at the same time. Just make this recipe and you will want to make it often.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "03 May 2026",
+  "cuisine": "Fusion",
+  "course": "Soup",
+  "prep_time": "5-10 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "4",
+  "taste": "Spicy",
+  "cooking_level": "Easy",
+  "diet_type": "Non vegetarian",
+  "main_ingredients": [
+    "Precia momos",
+    "Spring onions with greens",
+    "Fresh red chilli",
+    "Oil",
+    "Garlic",
+    "Chicken stock",
+    "Chilli oil"
+  ],
+  "ingredients": [
+    {
+      "raw": "4 Precia Chicken Momos",
+      "quantity": "4",
+      "unit": "",
+      "name": "Precia Chicken Momos"
+    },
+    {
+      "raw": "2 spring onions with greens",
+      "quantity": "2",
+      "unit": "",
+      "name": "spring onions with greens"
+    },
+    {
+      "raw": "1 fresh red chilli",
+      "quantity": "1",
+      "unit": "",
+      "name": "fresh red chilli"
+    },
+    {
+      "raw": "2 teaspoons oil",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "oil"
+    },
+    {
+      "raw": "2 teaspoons chopped garlic",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "chopped garlic"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "2 cups chicken stock",
+      "quantity": "2",
+      "unit": "cups",
+      "name": "chicken stock"
+    },
+    {
+      "raw": "Chilli oil to drizzle",
+      "quantity": "",
+      "unit": "",
+      "name": "Chilli oil to drizzle"
+    }
+  ],
+  "steps": [
+    "Chop spring onion bulbs and greens separately and slice fresh red chilli.",
+    "Heat oil in a non-stick wok, add garlic and sauté till light golden brown.",
+    "Add spring onion bulbs, fresh red chilli and salt and sauté for 1 minute.",
+    "Add chicken stock and mix well. Once it comes to a boil, add Precia Chicken Momos and cook for 6-8 minutes.",
+    "Transfer into a serving bowl, sprinkle spring onion greens, drizzle chilli oil and serve hot."
+  ],
+  "tags": [
+    "Chicken stock",
+    "Chilli oil",
+    "Fresh red chilli",
+    "Garlic",
+    "Oil",
+    "Spring onions with greens"
+  ],
+  "scraped_at": "2026-06-03T11:42:31.562178328+05:30"
+}

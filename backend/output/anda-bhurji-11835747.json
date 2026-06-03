@@ -1,0 +1,140 @@
+{
+  "id": "anda-bhurji-11835747",
+  "title": "Anda Bhurji",
+  "url": "https://www.sanjeevkapoor.com/Recipe/anda-bhurji-11835747",
+  "description": "Anda bhurji is the Indian version of scrambled eggs. Eggs cooked with onions, green chillies and some masala powders, the end result is simply delicious. A popular street food in Mumbai, served with pavs, it is enjoyed by all who love eggs.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "15 May 2026",
+  "cuisine": "Indian",
+  "course": "Snack",
+  "prep_time": "10-15 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Non vegetarian",
+  "main_ingredients": [
+    "Eggs",
+    "Onions",
+    "Green chillies",
+    "Oil",
+    "Butter",
+    "Cumin seeds",
+    "Tomatoes",
+    "Red chilli powder",
+    "Turmeric powder",
+    "Garam masala powder",
+    "Coriander powder",
+    "Fresh coriander leaves"
+  ],
+  "ingredients": [
+    {
+      "raw": "6 eggs",
+      "quantity": "6",
+      "unit": "",
+      "name": "eggs"
+    },
+    {
+      "raw": "2 medium onions",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium onions"
+    },
+    {
+      "raw": "2-3 green chillies",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 green chillies"
+    },
+    {
+      "raw": "2 tablespoons oil",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "oil"
+    },
+    {
+      "raw": "1 tablespoon butter",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "butter"
+    },
+    {
+      "raw": "½ teaspoon cumin seeds",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon cumin seeds"
+    },
+    {
+      "raw": "2 medium tomatoes, finely chopped",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium tomatoes, finely chopped"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "½ teaspoon red chilli powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon red chilli powder"
+    },
+    {
+      "raw": "¼ teaspoon turmeric powder",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ teaspoon turmeric powder"
+    },
+    {
+      "raw": "½ teaspoon garam masala powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon garam masala powder"
+    },
+    {
+      "raw": "1 teaspoon coriander powder",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "coriander powder"
+    },
+    {
+      "raw": "2-3 tablespoons chopped fresh coriander leaves + to sprinkle",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons chopped fresh coriander leaves + to sprinkle"
+    },
+    {
+      "raw": "Pavs for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Pavs for serving"
+    }
+  ],
+  "steps": [
+    "Chop onion and green chillies finely.",
+    "Heat oil and butter in a pan, add cumin seeds and once they start to change colour, add green chillies and onions, mix and sauté till translucent. Add tomatoes, mix and cook for 3-4 minutes",
+    "Add salt, red chilli powder, turmeric powder, garam masala powder and coriander powder, mix well and saute for 1-2 minutes.",
+    "Break eggs in the pan and cook, stirring continuously, for 3-4 minutes.",
+    "Add coriander leaves and mix well.",
+    "Transfer into a serving bowl, sprinkle coriander leaves on top and serve hot with pavs."
+  ],
+  "tags": [
+    "Butter",
+    "Coriander powder",
+    "Cumin seeds",
+    "Eggs",
+    "Fresh coriander leaves",
+    "Garam masala powder",
+    "Green chillies",
+    "Oil",
+    "Onions",
+    "Red chilli powder",
+    "Tomatoes",
+    "Turmeric powder"
+  ],
+  "scraped_at": "2026-06-03T11:45:03.492802212+05:30"
+}
