@@ -1,7 +1,6 @@
 package scraper
 
 import (
-	"context"
 	"encoding/xml"
 	"fmt"
 	"io"
@@ -14,7 +13,6 @@ import (
 	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/chromedp/chromedp"
 	"github.com/gocolly/colly/v2"
 	"github.com/gocolly/colly/v2/extensions"
 	"github.com/gocolly/colly/v2/queue"
@@ -166,10 +164,6 @@ func (s *Scraper) Run() ([]models.Recipe, models.ScrapeStats, error) {
 	// ── Step 2: If pagination enabled, scrape listing pages for more URLs ──
 	if s.cfg.FollowPagination && s.cfg.MaxListingPages > 0 {
 		s.logger.Printf("[scraper] starting paginated listing scrape (max pages = %d)", s.cfg.MaxListingPages)
-		ctx, cancel := chromedp.NewContext(context.Background())
-		defer cancel()
-		ctx, cancel = context.WithTimeout(ctx, 5*time.Minute)
-		defer cancel()
 
 		for page := 1; page <= s.cfg.MaxListingPages; page++ {
 			if s.cfg.MaxRecipes > 0 && len(allRecipeURLs) >= s.cfg.MaxRecipes {
@@ -177,9 +171,13 @@ func (s *Scraper) Run() ([]models.Recipe, models.ScrapeStats, error) {
 			}
 			pageURL := fmt.Sprintf("%s?page=%d", recipeListURL, page)
 			s.logger.Printf("[scraper] fetching listing page %d: %s", page, pageURL)
-			links, err := s.getRecipeLinksWithChromedp(ctx, pageURL)
+			links, err := s.getRecipeLinksHTTP(pageURL)
 			if err != nil {
 				s.logger.Printf("[scraper] page %d error: %v – stopping pagination", page, err)
+				break
+			}
+			if len(links) == 0 {
+				s.logger.Printf("[scraper] page %d returned no links – stopping pagination", page)
 				break
 			}
 			newCount := 0
@@ -275,36 +273,58 @@ func (s *Scraper) getRecipeURLsFromRSS() ([]string, error) {
 	return urls, nil
 }
 
-// getRecipeLinksWithChromedp loads a listing page and extracts all recipe URLs.
-func (s *Scraper) getRecipeLinksWithChromedp(ctx context.Context, pageURL string) ([]string, error) {
-	var links []string
-	err := chromedp.Run(ctx,
-		chromedp.Navigate(pageURL),
-		chromedp.Sleep(3*time.Second), // wait for JS to load
-		chromedp.Evaluate(`
-			(() => {
-				const anchors = Array.from(document.querySelectorAll('a[href*="/Recipe/"]'));
-				return anchors.map(a => a.href);
-			})();
-		`, &links),
-	)
+// getRecipeLinksHTTP fetches a listing page with plain HTTP and extracts recipe URLs using goquery.
+// This replaces the chromedp-based approach and requires no browser installation.
+func (s *Scraper) getRecipeLinksHTTP(pageURL string) ([]string, error) {
+	client := &http.Client{Timeout: 30 * time.Second}
+	req, err := http.NewRequest("GET", pageURL, nil)
 	if err != nil {
-		return nil, fmt.Errorf("chromedp evaluate error: %w", err)
+		return nil, fmt.Errorf("create request: %w", err)
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.9")
+	req.Header.Set("Referer", "https://www.sanjeevkapoor.com/")
+
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("HTTP request failed: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("HTTP status %d", resp.StatusCode)
 	}
 
-	// Deduplicate and validate
-	seen := make(map[string]bool)
-	var valid []string
-	for _, link := range links {
-		if !strings.Contains(link, "/Recipe/") {
-			continue
-		}
-		if !seen[link] {
-			seen[link] = true
-			valid = append(valid, link)
-		}
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		return nil, fmt.Errorf("parse HTML: %w", err)
 	}
-	return valid, nil
+
+	seen := make(map[string]bool)
+	var links []string
+	doc.Find("a[href]").Each(func(_ int, a *goquery.Selection) {
+		href, exists := a.Attr("href")
+		if !exists {
+			return
+		}
+		// Normalise relative URLs
+		if strings.HasPrefix(href, "/") {
+			href = baseURL + href
+		}
+		if !strings.Contains(href, "/Recipe/") {
+			return
+		}
+		// Skip listing/category pages, only keep individual recipe pages
+		if href == recipeListURL || strings.HasSuffix(href, "/Recipe") {
+			return
+		}
+		if !seen[href] {
+			seen[href] = true
+			links = append(links, href)
+		}
+	})
+	return links, nil
 }
 
 // parseRecipePage extracts data from a single recipe HTML page (colly callback)
