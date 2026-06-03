@@ -10,7 +10,7 @@ FROM alpine:latest
 RUN apk --no-cache add ca-certificates
 WORKDIR /root/
 COPY --from=builder /recipe-api .
-COPY output/ ./output/
+COPY output/  ./output/
 EXPOSE 8080
 ENV GEMINI_API_KEY=""
 CMD ["./recipe-api"]
