@@ -32,7 +32,7 @@ services:
     networks:
       - recipe-net
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:8000/api/v1/heartbeat"]
       interval: 30s
       timeout: 10s
       retries: 5
@@ -48,7 +48,7 @@ services:
     networks:
       - recipe-net
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:11434/api/tags"]
       interval: 30s
       timeout: 10s
       retries: 5

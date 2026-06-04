@@ -1,10 +1,6 @@
 module recipe-scraper
 
-<<<<<<< Updated upstream
 go 1.25.0
-=======
-go 1.23
->>>>>>> Stashed changes
 
 require (
 	github.com/PuerkitoBio/goquery v1.12.0
