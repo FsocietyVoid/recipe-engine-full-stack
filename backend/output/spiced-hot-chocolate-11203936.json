@@ -1,0 +1,60 @@
+{
+  "id": "spiced-hot-chocolate-11203936",
+  "title": "Spiced Hot Chocolate",
+  "url": "https://www.sanjeevkapoor.com/Recipe/spiced-hot-chocolate-11203936",
+  "description": "Warm cups, festive nights and a little indulgence in the guise of hot chocolate. And you go slurp slurp slurp.\nThis is Sanjeev Kapoor exclusive recipe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "13 May 2026",
+  "cuisine": "Fusion",
+  "course": "Beverage",
+  "prep_time": "10-15 minutes",
+  "cook_time": "0 minute",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Non vegetarian",
+  "main_ingredients": [
+    "Dark chocolate chips",
+    "Fresh cream",
+    "Cinnamon powder",
+    "Marshmallows"
+  ],
+  "ingredients": [
+    {
+      "raw": "8-12 tablespoons dark chocolate chips",
+      "quantity": "8",
+      "unit": "",
+      "name": "-12 tablespoons dark chocolate chips"
+    },
+    {
+      "raw": "3 cups hot milk",
+      "quantity": "3",
+      "unit": "cups",
+      "name": "hot milk"
+    },
+    {
+      "raw": "4 pinches of cinnamon powder + to sprinkle",
+      "quantity": "4",
+      "unit": "",
+      "name": "pinches of cinnamon powder + to sprinkle"
+    },
+    {
+      "raw": "Marshmallows as required",
+      "quantity": "",
+      "unit": "",
+      "name": "Marshmallows as required"
+    }
+  ],
+  "steps": [
+    "For each portion, take 2-3 tablespoons chocolate chips in a glass mug. Add ¾ cup hot milk and 1 pinch of cinnamon powder and stir till chocolate melts.",
+    "Top up with a few marshmallows, sprinkle some more cinnamon powder on top and serve hot."
+  ],
+  "tags": [
+    "Cinnamon powder",
+    "Hot Milk",
+    "Marshmallows",
+    "Dark chocolate chips"
+  ],
+  "scraped_at": "2026-06-03T11:42:08.165850342+05:30"
+}

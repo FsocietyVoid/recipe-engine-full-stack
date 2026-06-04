@@ -1,0 +1,101 @@
+{
+  "id": "vratwale-aloo-11111554",
+  "title": "Vratwale Aloo",
+  "url": "https://www.sanjeevkapoor.com/Recipe/vratwale-aloo-11111554",
+  "description": "Simple, flavourful and wholesome this aloo ki sabzi tastes great with rajgire ke paranthe. But why wait to make it for your next vrat. Make it any time and serve it with any paranthe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "05 May 2026",
+  "cuisine": "Indian",
+  "course": "Main course vegetarian",
+  "prep_time": "20-25 minutes",
+  "cook_time": "10-15 minutrs",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Potatoes",
+    "Ghee",
+    "Cumin seeds",
+    "Green chillies",
+    "Rock salt (sendha namak)",
+    "Yogurt",
+    "Scraped fresh coconut",
+    "Fresh coriander leaves"
+  ],
+  "ingredients": [
+    {
+      "raw": "4 medium potatoes (aloo), boiled and peeled",
+      "quantity": "4",
+      "unit": "",
+      "name": "medium potatoes , boiled and peeled"
+    },
+    {
+      "raw": "2 tablespoons ghee",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "ghee"
+    },
+    {
+      "raw": "1 teaspoon cumin seeds",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds"
+    },
+    {
+      "raw": "2-3 green chillies, chopped",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 green chillies, chopped"
+    },
+    {
+      "raw": "Rock salt (sendha namak) to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Rock salt  to taste"
+    },
+    {
+      "raw": "¾ cup yogurt",
+      "quantity": "",
+      "unit": "",
+      "name": "¾ cup yogurt"
+    },
+    {
+      "raw": "2-3 tablespoons scraped fresh coconut",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons scraped fresh coconut"
+    },
+    {
+      "raw": "2 tablespoons chopped fresh coriander leaves",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped fresh coriander leaves"
+    },
+    {
+      "raw": "Fresh coriander sprig for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Fresh coriander sprig for garnish"
+    }
+  ],
+  "steps": [
+    "Heat ghee in a non-stick kadai, add cumin seeds and once they start to change colour, add green chillies, mix and sauté for a few seconds.",
+    "Mash potatoes roughly and add to the kadai. Add rock salt and yogurt, mix well and cook for 4-5 minutes.Add coconut and mix. Add 1 cup water, mix well and cook for 2-3 minutes.",
+    "Add coriander leaves and mix well.",
+    "Transfer into a serving bowl, garnish with coriander sprig and serve hot.",
+    "To serve the vrat ki thali, take some cucumber raita in one bowl, place the rajgire ke paranthe in the centre, aloo ki sabzi in another bowl and singhade ka halwa in a third bowl."
+  ],
+  "tags": [
+    "Cumin seeds",
+    "Fresh coriander leaves",
+    "Ghee",
+    "Green chillies",
+    "Potatoes",
+    "Rock salt (sendha namak)",
+    "Yogurt",
+    "Scraped fresh coconut"
+  ],
+  "scraped_at": "2026-06-03T11:42:58.53792193+05:30"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "french-fries-11450879",
+  "title": "French Fries",
+  "url": "https://www.sanjeevkapoor.com/Recipe/french-fries-11450879",
+  "description": "A favourite of kids, French fries that they enjoy all the time. It is relished by adults too especially while watching a favourite movie with the family. Make them at home and enjoy them with the entire family.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "04 Apr 2026",
+  "cuisine": "Belgian",
+  "course": "Snacks and starters",
+  "prep_time": "10-11 hours",
+  "cook_time": "25-30 minutes",
+  "servings": "",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Wafer potatoes",
+    "Salt",
+    "Oil",
+    "Tomato ketchup"
+  ],
+  "ingredients": [
+    {
+      "raw": "400 grams wafer potatoes",
+      "quantity": "400",
+      "unit": "grams",
+      "name": "wafer potatoes"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "Oil for deep frying",
+      "quantity": "",
+      "unit": "",
+      "name": "Oil for deep frying"
+    },
+    {
+      "raw": "Tomato ketchup for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Tomato ketchup for serving"
+    }
+  ],
+  "steps": [
+    "Peel potatoes and cut into batons. Transfer into a bowl of chilled water and set aside for 30 minutes.",
+    "Boil sufficient water in a deep pan, add salt and mix well.",
+    "Drain the potatoes and add to the boiling water and parboil for 6-7 minutes. Drain and transfer into chilled water.",
+    "Drain again and spread on a kitchen towel and pat dry.",
+    "Transfer into zip lock bag and freeze for 8-10 hours.",
+    "Heat sufficient oil in a kadai. Add frozen fries and deep-fry till golden brown and crisp. Ensure that you do not overcrowd the kadai. Drain on absorbent paper.",
+    "Transfer into a bowl and sprinkle salt while still hot and toss well.",
+    "Transfer into a serving bowl and serve with tomato ketchup."
+  ],
+  "tags": [
+    "Oil",
+    "Salt",
+    "Tomato ketchup",
+    "Wafer potatoes"
+  ],
+  "scraped_at": "2026-06-03T11:42:29.348605188+05:30"
+}

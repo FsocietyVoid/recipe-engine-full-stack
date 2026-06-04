@@ -1,0 +1,99 @@
+{
+  "id": "mango-boba-10982091",
+  "title": "Mango Boba",
+  "url": "https://www.sanjeevkapoor.com/Recipe/mango-boba-10982091",
+  "description": "There must be very few who don’t enjoy mangoes in various ways. Here we decided to give it our own twist by turning it into the most refreshing ‘mango boba’ you’ll want to sip again and again.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "14 May 2026",
+  "cuisine": "Korean",
+  "course": "Beverage",
+  "prep_time": "20-25 minutes",
+  "cook_time": "20-25 minutes",
+  "servings": "4",
+  "taste": "Sweet",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Ripe mangoes",
+    "Tapioca flour",
+    "Castor sugar",
+    "Cocoa powder",
+    "Milk",
+    "Crushed ice"
+  ],
+  "ingredients": [
+    {
+      "raw": "4 ripe mangoes",
+      "quantity": "4",
+      "unit": "",
+      "name": "ripe mangoes"
+    },
+    {
+      "raw": "For Boba pearls",
+      "quantity": "",
+      "unit": "",
+      "name": "For Boba pearls"
+    },
+    {
+      "raw": "½ cup tapioca flour + for dusting",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup tapioca flour + for dusting"
+    },
+    {
+      "raw": "2 tablespoons castor sugar",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "castor sugar"
+    },
+    {
+      "raw": "3 tablespoons cocoa powder",
+      "quantity": "3",
+      "unit": "tablespoons",
+      "name": "cocoa powder"
+    },
+    {
+      "raw": "Mango Milk",
+      "quantity": "",
+      "unit": "",
+      "name": "Mango Milk"
+    },
+    {
+      "raw": "8 tablespoons castor sugar",
+      "quantity": "8",
+      "unit": "tablespoons",
+      "name": "castor sugar"
+    },
+    {
+      "raw": "4 cups milk",
+      "quantity": "4",
+      "unit": "cups",
+      "name": "milk"
+    },
+    {
+      "raw": "Crushed ice as required",
+      "quantity": "",
+      "unit": "",
+      "name": "Crushed ice as required"
+    }
+  ],
+  "steps": [
+    "To make boba pearls, heat ⅓ cup water in non-stick pan, add castor sugar and cocoa powder, mix well and cook till the sugar dissolves.",
+    "Add 2 tablespoons of tapioca starch, mix well and cook till mixture becomes thick.",
+    "Place the remaining tapioca starch on the worktop, add the thickened mixture and knead well to a soft dough.",
+    "Divide the mixture into small equal portions and roll into balls and keep them in a bowl. Sprinkle tapioca flour over them.",
+    "Boil sufficient water in a deep non-stick pan, add the tapioca pearls and cook on medium heat for 10-15 minutes.",
+    "Meanwhile to make mango milk, peel and cut mangoes into small pieces and transfer into a blender jar. Add milk and sugar and blend to a smooth mixture and set aside.",
+    "Strain the tapioca pearls and dip them into chilled water.",
+    "Drain these pearls and put 2 tablespoons in each serving glass. Add crushed ice and pour the mango milk and mix well, serve chilled."
+  ],
+  "tags": [
+    "Cocoa powder",
+    "Crushed ice",
+    "Milk",
+    "Ripe mangoes",
+    "Castor sugar"
+  ],
+  "scraped_at": "2026-06-03T11:44:05.889161309+05:30"
+}

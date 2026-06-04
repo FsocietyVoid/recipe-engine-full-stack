@@ -1,0 +1,111 @@
+{
+  "id": "murauri-11327207",
+  "title": "Murauri",
+  "url": "https://www.sanjeevkapoor.com/Recipe/murauri-11327207",
+  "description": "An iconic dish from Bihar, murauri is a light and crisp radish puri which you will find light while eating but there will be no compromise when it comes to flavour.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "06 Apr 2026",
+  "cuisine": "Bihari",
+  "course": "Breads",
+  "prep_time": "25-30 minutes",
+  "cook_time": "35-40 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "White radish",
+    "Rice flour",
+    "Carom seeds",
+    "Onion seeds",
+    "Ginger",
+    "Red chilli flakes",
+    "Salt",
+    "Fresh coriander leaves",
+    "Oil"
+  ],
+  "ingredients": [
+    {
+      "raw": "1½ cups grated white radish",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "grated white radish"
+    },
+    {
+      "raw": "1 cup rice flour",
+      "quantity": "1",
+      "unit": "cup",
+      "name": "rice flour"
+    },
+    {
+      "raw": "½ teaspoon carom seeds (ajwain)",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon carom seeds"
+    },
+    {
+      "raw": "¼ teaspoon onion seeds (kalaunji)",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ teaspoon onion seeds"
+    },
+    {
+      "raw": "½ inch ginger, grated",
+      "quantity": "",
+      "unit": "",
+      "name": "½ inch ginger, grated"
+    },
+    {
+      "raw": "½ teaspoon red chilli flakes",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon red chilli flakes"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "2 tablespoons chopped fresh coriander leaves",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped fresh coriander leaves"
+    },
+    {
+      "raw": "Oil for deep frying + for greasing",
+      "quantity": "",
+      "unit": "",
+      "name": "Oil for deep frying + for greasing"
+    },
+    {
+      "raw": "Rassewale aloo ki sabzi for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Rassewale aloo ki sabzi for serving"
+    }
+  ],
+  "steps": [
+    "Heat 2 cups water in a kadai, add carom seeds, onion seeds, ginger, red chilli flakes, salt and radish and cook for 8-10 minutes or till the water reduces to half of its original volume.",
+    "Add rice flour and mix well. Take the pan off the heat, cover and set aside for 10 minutes.",
+    "Transfer the radish mixture into a bowl, add coriander leaves and knead to a smooth dough.Divide the dough into equal portions and roll into balls.",
+    "Heat sufficient oil in a kadai.",
+    "Grease the rolling board with some oil and roll each ball into a thick disc. Cut with a round cookie cutter.",
+    "Gently slide in the discs, one at a time, into hot oil and deep-fry till light golden and crisp. Drain on absorbent paper.",
+    "Transfer the murauri onto a serving plate and serve hot with rassewale aloo ki sabzi."
+  ],
+  "tags": [
+    "Fresh coriander leaves",
+    "Ginger",
+    "Oil",
+    "Red chilli flakes",
+    "Rice flour",
+    "Salt",
+    "White radish",
+    "Carom seeds",
+    "Onion seeds"
+  ],
+  "scraped_at": "2026-06-03T11:43:41.940978406+05:30"
+}

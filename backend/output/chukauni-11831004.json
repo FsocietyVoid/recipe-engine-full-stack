@@ -1,0 +1,131 @@
+{
+  "id": "chukauni-11831004",
+  "title": "Chukauni",
+  "url": "https://www.sanjeevkapoor.com/Recipe/chukauni-11831004",
+  "description": "Chukauni is a traditional Nepali salad that originated in Palpa district of Nepal. Made with boiled potatoes and yogurt, and tempered with mustard oil and fenugreek seeds, its tangy, creamy flavour is very appetizing.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "14 May 2026",
+  "cuisine": "Nepali",
+  "course": "Salad",
+  "prep_time": "20-25 minutes",
+  "cook_time": "0-5 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Potatoes",
+    "Onions",
+    "Fresh red chillies",
+    "Yogurt",
+    "Roasted cumin powder",
+    "Dried mango powder",
+    "Fresh coriander leaves",
+    "Mustard oil",
+    "Fenugreek seeds",
+    "Turmeric powder",
+    "Red chilli powder"
+  ],
+  "ingredients": [
+    {
+      "raw": "6 medium potatoes, boiled",
+      "quantity": "6",
+      "unit": "",
+      "name": "medium potatoes, boiled"
+    },
+    {
+      "raw": "2 medium onions",
+      "quantity": "2",
+      "unit": "",
+      "name": "medium onions"
+    },
+    {
+      "raw": "2 fresh red chillies + for garnish",
+      "quantity": "2",
+      "unit": "",
+      "name": "fresh red chillies + for garnish"
+    },
+    {
+      "raw": "1½ cups yogurt",
+      "quantity": "1½",
+      "unit": "cups",
+      "name": "yogurt"
+    },
+    {
+      "raw": "1 teaspoon roasted cumin powder",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "roasted cumin powder"
+    },
+    {
+      "raw": "1¼ teaspoons dried mango powder (amchur)",
+      "quantity": "1¼",
+      "unit": "teaspoons",
+      "name": "dried mango powder"
+    },
+    {
+      "raw": "1 tablespoon chopped fresh coriander leaves + for garnish",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "chopped fresh coriander leaves + for garnish"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "2 tablespoons mustard oil",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "mustard oil"
+    },
+    {
+      "raw": "½ teaspoon fenugreek seeds (methi dana)",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon fenugreek seeds"
+    },
+    {
+      "raw": "¼ teaspoon turmeric powder",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ teaspoon turmeric powder"
+    },
+    {
+      "raw": "½ teaspoon red chilli powder",
+      "quantity": "",
+      "unit": "",
+      "name": "½ teaspoon red chilli powder"
+    },
+    {
+      "raw": "Steamed rice for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Steamed rice for serving"
+    }
+  ],
+  "steps": [
+    "Peel potatoes and cut into 1-inch pieces. Peel and slice onions thinly. Slice fresh red chillies diagonally.",
+    "Take yogurt in a bowl, add roasted cumin powder, dried mango powder, potatoes, onions, fresh red chillies, chopped coriander leaves and salt and mix well.",
+    "To make tempering, heat mustard oil in a pan till it begins to smoke. Add fenugreek seeds, turmeric powder and red chilli powder and mix well.",
+    "Add this tempering to potato mixture and mix well.",
+    "Transfer into a serving bowl, garnish with fresh red chillies and coriander leaves and serve with steamed rice."
+  ],
+  "tags": [
+    "Dried mango powder",
+    "Fresh coriander leaves",
+    "Fresh red chillies",
+    "Mustard oil",
+    "Onions",
+    "Potatoes",
+    "Red chilli powder",
+    "Roasted cumin powder",
+    "Turmeric powder",
+    "Yogurt",
+    "Fenugreek seeds"
+  ],
+  "scraped_at": "2026-06-03T11:43:20.464702173+05:30"
+}

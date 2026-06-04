@@ -1,0 +1,89 @@
+{
+  "id": "chilli-garlic-spaghetti-11884873",
+  "title": "Chilli Garlic Spaghetti",
+  "url": "https://www.sanjeevkapoor.com/Recipe/chilli-garlic-spaghetti-11884873",
+  "description": "A simple spaghetti dish made in a jiffy without compromising the taste. Fresh red chillies, garlic and parsley add their flavour making the dish delicious. This is Sanjeev Kapoor exclusive recipe.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "01 Jun 2026",
+  "cuisine": "Italian",
+  "course": "Noodles and pastas",
+  "prep_time": "0-5 minutes",
+  "cook_time": "25-30 minutes",
+  "servings": "",
+  "taste": "Spicy",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Fresh red chillies",
+    "Garlic",
+    "Spaghetti",
+    "Salt",
+    "Fresh parsley",
+    "Extra virgin olive oil",
+    "Parmesan cheese powder"
+  ],
+  "ingredients": [
+    {
+      "raw": "2 fresh red chillies",
+      "quantity": "2",
+      "unit": "",
+      "name": "fresh red chillies"
+    },
+    {
+      "raw": "6-8 garlic cloves",
+      "quantity": "6",
+      "unit": "",
+      "name": "-8 garlic cloves"
+    },
+    {
+      "raw": "200 grams spaghetti",
+      "quantity": "200",
+      "unit": "grams",
+      "name": "spaghetti"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "2-3 fresh parsley sprigs",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 fresh parsley sprigs"
+    },
+    {
+      "raw": "2 tablespoon extra virgin olive oil + to drizzle",
+      "quantity": "2",
+      "unit": "tablespoon",
+      "name": "extra virgin olive oil + to drizzle"
+    },
+    {
+      "raw": "Parmesan cheese powder to sprinkle",
+      "quantity": "",
+      "unit": "",
+      "name": "Parmesan cheese powder to sprinkle"
+    }
+  ],
+  "steps": [
+    "Boil sufficient water in a deep pan. Add salt and spaghetti, mix and cook for 8-10 minutes. Drain and set aside.",
+    "Meanwhile chop fresh red chillies and parsley sprigs. Slice garlic cloves.",
+    "Heat extra virgin olive oil in a non-stick pan, add garlic and sauté till light golden brown in colour.",
+    "Add fresh red chillies, mix and sauté for 30 seconds. Add spaghetti and add to the pan.",
+    "Add salt and parsley, mix and cook for 2-3 minutes.",
+    "Sprinkle parmesan cheese powder and drizzle extra virgin olive oil and mix.",
+    "Transfer into a serving bowl, sprinkle some parmesan cheese powder and drizzle some extra virgin olive oil and serve hot."
+  ],
+  "tags": [
+    "Extra virgin olive oil",
+    "Fresh parsley",
+    "Fresh red chillies",
+    "Garlic",
+    "Parmesan cheese powder",
+    "Salt",
+    "Spaghetti"
+  ],
+  "scraped_at": "2026-06-03T11:44:05.131229771+05:30"
+}

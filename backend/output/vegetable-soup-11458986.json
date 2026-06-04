@@ -1,0 +1,169 @@
+{
+  "id": "vegetable-soup-11458986",
+  "title": "Vegetable Soup",
+  "url": "https://www.sanjeevkapoor.com/Recipe/vegetable-soup-11458986",
+  "description": "If you want to enjoy the benefits of fresh vegetables then this soup is for you. It not only has a mild crunchiness of the vegetables but also is colourful and flavourful too.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "24 Apr 2026",
+  "cuisine": "Fusion",
+  "course": "Soups",
+  "prep_time": "15-20 minutes",
+  "cook_time": "20-25 minutes",
+  "servings": "4",
+  "taste": "Mild",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetables",
+  "main_ingredients": [
+    "Cabbage",
+    "Carrot",
+    "French beans",
+    "Green peas  Corn kernels",
+    "Green capsicum",
+    "Button mushrooms",
+    "Oil",
+    "Butter",
+    "Ginger",
+    "Garlic",
+    "Green chillies",
+    "Onion",
+    "Black pepper powder",
+    "Macaroni",
+    "Vegetable stock"
+  ],
+  "ingredients": [
+    {
+      "raw": "2 tablespoons chopped cabbage",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped cabbage"
+    },
+    {
+      "raw": "2 tablespoons chopped carrot",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped carrot"
+    },
+    {
+      "raw": "2 tablespoons chopped French beans",
+      "quantity": "2",
+      "unit": "tablespoons",
+      "name": "chopped French beans"
+    },
+    {
+      "raw": "2-3 tablespoons green peas",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons green peas"
+    },
+    {
+      "raw": "2-3 tablespoons corn kernels",
+      "quantity": "2",
+      "unit": "",
+      "name": "-3 tablespoons corn kernels"
+    },
+    {
+      "raw": "1 small green capsicum, seeded and chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "small green capsicum, seeded and chopped"
+    },
+    {
+      "raw": "4-5 button mushrooms, chopped",
+      "quantity": "4",
+      "unit": "",
+      "name": "-5 button mushrooms, chopped"
+    },
+    {
+      "raw": "1 tablespoon oil",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "oil"
+    },
+    {
+      "raw": "1 tablespoon butter",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "butter"
+    },
+    {
+      "raw": "2 teaspoons chopped ginger",
+      "quantity": "2",
+      "unit": "teaspoons",
+      "name": "chopped ginger"
+    },
+    {
+      "raw": "1 tablespoon chopped garlic",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "chopped garlic"
+    },
+    {
+      "raw": "1 green chilli, chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "green chilli, chopped"
+    },
+    {
+      "raw": "1 medium onion, chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "medium onion, chopped"
+    },
+    {
+      "raw": "Black pepper powder to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Black pepper powder to taste"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "½ cup macaroni",
+      "quantity": "",
+      "unit": "",
+      "name": "½ cup macaroni"
+    },
+    {
+      "raw": "3 cups vegetable stock",
+      "quantity": "3",
+      "unit": "cups",
+      "name": "vegetable stock"
+    },
+    {
+      "raw": "Lavash for serving",
+      "quantity": "",
+      "unit": "",
+      "name": "Lavash for serving"
+    }
+  ],
+  "steps": [
+    "Heat oil and butter in a deep non-stick pan, add ginger, garlic and green chilli, mix and sauté till golden brown.",
+    "Add onion, mix and sauté till translucent. Add cabbage, carrot, French beans, green peas, corn kernels, green capsicum and mushrooms, mix well and saute for 2-3 minutes.",
+    "Add black pepper powder and salt and mix well. Add macaroni and vegetable stock and cook for 8-10 minutes or till macaroni is cooked.",
+    "Transfer into a serving bowl and serve hot with lavash."
+  ],
+  "tags": [
+    "Black pepper powder",
+    "Butter",
+    "Button mushrooms",
+    "Cabbage",
+    "Carrot",
+    "Corn kernels",
+    "French beans",
+    "Garlic",
+    "Ginger",
+    "Green capsicum",
+    "Green chilli",
+    "Green peas",
+    "Macaroni",
+    "Oil",
+    "Onion",
+    "Vegetable stock"
+  ],
+  "scraped_at": "2026-06-03T11:44:29.909792475+05:30"
+}

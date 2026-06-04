@@ -1,0 +1,170 @@
+{
+  "id": "thukpa-11726210",
+  "title": "Thukpa",
+  "url": "https://www.sanjeevkapoor.com/Recipe/thukpa-11726210",
+  "description": "The speciality of this dish from Tibet that it has the perfect balance of speed and flavour. A mixed vegetable soup poured over noodles is a food that will elevate your comfort to a next level.",
+  "image_url": "/static/images/svg%20icons/user-avatar.svg",
+  "author": "Sanjeev Kapoor",
+  "published_at": "15 Apr 2026",
+  "cuisine": "Tibet",
+  "course": "Soup",
+  "prep_time": "25-30 minutes",
+  "cook_time": "15-20 minutes",
+  "servings": "4",
+  "taste": "Savoury",
+  "cooking_level": "Easy",
+  "diet_type": "Vegetarian",
+  "main_ingredients": [
+    "Noodles",
+    "Ginger",
+    "Garlic",
+    "Fresh red chillies",
+    "Fresh coriander stems",
+    "Tomato",
+    "Onion",
+    "Vegetable stock",
+    "Cabbage",
+    "Carrot",
+    "Button mushrooms",
+    "French beans",
+    "Vinegar",
+    "Sesame oil",
+    "Chill oil",
+    "Spring onion greens"
+  ],
+  "ingredients": [
+    {
+      "raw": "200 grams noodles, boiled",
+      "quantity": "200",
+      "unit": "grams",
+      "name": "noodles, boiled"
+    },
+    {
+      "raw": "1 inch ginger, roughly chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "inch ginger, roughly chopped"
+    },
+    {
+      "raw": "6-8 garlic cloves",
+      "quantity": "6",
+      "unit": "",
+      "name": "-8 garlic cloves"
+    },
+    {
+      "raw": "3-4 fresh red chillies",
+      "quantity": "3",
+      "unit": "",
+      "name": "-4 fresh red chillies"
+    },
+    {
+      "raw": "10-15 fresh coriander stems",
+      "quantity": "10",
+      "unit": "",
+      "name": "-15 fresh coriander stems"
+    },
+    {
+      "raw": "1 medium tomato, roughly chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "medium tomato, roughly chopped"
+    },
+    {
+      "raw": "1 medium onion, roughly chopped",
+      "quantity": "1",
+      "unit": "",
+      "name": "medium onion, roughly chopped"
+    },
+    {
+      "raw": "1 tablespoon oil",
+      "quantity": "1",
+      "unit": "tablespoon",
+      "name": "oil"
+    },
+    {
+      "raw": "3 cups vegetable stock",
+      "quantity": "3",
+      "unit": "cups",
+      "name": "vegetable stock"
+    },
+    {
+      "raw": "¼ medium cabbage, shredded",
+      "quantity": "",
+      "unit": "",
+      "name": "¼ medium cabbage, shredded"
+    },
+    {
+      "raw": "1 medium carrot, peeled and sliced",
+      "quantity": "1",
+      "unit": "",
+      "name": "medium carrot, peeled and sliced"
+    },
+    {
+      "raw": "4-5 button mushrooms, sliced",
+      "quantity": "4",
+      "unit": "",
+      "name": "-5 button mushrooms, sliced"
+    },
+    {
+      "raw": "6-8 French beans, thinly sliced",
+      "quantity": "6",
+      "unit": "",
+      "name": "-8 French beans, thinly sliced"
+    },
+    {
+      "raw": "Salt to taste",
+      "quantity": "",
+      "unit": "",
+      "name": "Salt to taste"
+    },
+    {
+      "raw": "1 teaspoon vinegar",
+      "quantity": "1",
+      "unit": "teaspoon",
+      "name": "vinegar"
+    },
+    {
+      "raw": "Sesame oil to drizzle",
+      "quantity": "",
+      "unit": "",
+      "name": "Sesame oil to drizzle"
+    },
+    {
+      "raw": "Chilli oil to drizzle",
+      "quantity": "",
+      "unit": "",
+      "name": "Chilli oil to drizzle"
+    },
+    {
+      "raw": "Thinly sliced spring onion greens for garnish",
+      "quantity": "",
+      "unit": "",
+      "name": "Thinly sliced spring onion greens for garnish"
+    }
+  ],
+  "steps": [
+    "Put ginger, garlic, fresh red chillies, fresh coriander stems, tomato and onion in a grinder jar and grind to a fine paste.",
+    "Heat oil in a non-stick kadai. Add ground paste and cook on medium heat till oil separates.",
+    "Add vegetable stock and once the mixture comes to a boil, add cabbage, carrot, mushrooms and French beans and salt and cook for 5-6 minutes. Add vinegar and mix well.",
+    "Take noodles in a serving bowl, pour the soup over them, drizzle sesame oil, chilli oil, sprinkle spring onion greens and serve hot."
+  ],
+  "tags": [
+    "Button mushrooms",
+    "Cabbage",
+    "Carrot",
+    "Chilli oil",
+    "French beans",
+    "Fresh coriander stems",
+    "Fresh red chillies",
+    "Garlic",
+    "Ginger",
+    "Noodles",
+    "Onion",
+    "Spring onion greens",
+    "Tomato",
+    "Vegetable stock",
+    "Vinegar",
+    "Sesame oil"
+  ],
+  "scraped_at": "2026-06-03T11:43:35.452651861+05:30"
+}
