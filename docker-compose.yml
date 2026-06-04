@@ -7,8 +7,7 @@ services:
       - GEMINI_API_KEY=${GEMINI_API_KEY}
       - RAG_SERVICE_URL=http://rag-service:8090
     depends_on:
-      rag-service:
-        condition: service_healthy
+      - rag-service
     networks:
       - recipe-net
     restart: unless-stopped
@@ -31,12 +30,6 @@ services:
       - chroma_data:/chroma/chroma
     networks:
       - recipe-net
-    healthcheck:
-      test: ["CMD", "wget", "--spider", "-q", "http://localhost:8000/api/v1/heartbeat"]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 40s
     restart: unless-stopped
 
   ollama:
@@ -47,12 +40,6 @@ services:
       - ollama_data:/root/.ollama
     networks:
       - recipe-net
-    healthcheck:
-      test: ["CMD", "wget", "--spider", "-q", "http://localhost:11434/api/tags"]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 60s
     restart: unless-stopped
 
   rag-service:
@@ -65,18 +52,10 @@ services:
     volumes:
       - ./backend/output:/app/output:ro
     depends_on:
-      chromadb:
-        condition: service_healthy
-      ollama:
-        condition: service_healthy
+      - chromadb
+      - ollama
     networks:
       - recipe-net
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8090/health"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-      start_period: 30s
     restart: unless-stopped
 
 volumes:
